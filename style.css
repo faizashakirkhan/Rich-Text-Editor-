@@ -1,0 +1,27 @@
+.text-editor-header{
+    background-color: rgb(188, 208, 224);
+    display: flex;
+    justify-content: space-evenly;
+}
+.content{
+    height: 400px;
+    outline: none;
+    overflow: auto;
+}
+.card{
+      box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px;
+        background-color:#d0d3d4;
+       border-radius: 10px;
+     color: rgb(16, 18, 20);
+    
+
+}
+img{
+    height: 150px;
+    width: 150px;
+}
+body{
+    background-image:url(image/white-png-dust-light-bokeh-600nw-2075184025.webp) ;
+    background-repeat: no-repeat;
+     background-size: cover;
+}
